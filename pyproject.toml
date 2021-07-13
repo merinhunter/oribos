@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "oribos"
-version = "0.2.0"
+version = "0.2.1"
 description = "A sample Python package"
 authors = ["A. Random Developer <author@example.com>"]
 license = "MIT"
