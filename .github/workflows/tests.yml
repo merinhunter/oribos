@@ -1,7 +1,5 @@
 name: "Pull Request Check: Docker Build"
 
-run-name: Testing ${{ inputs.deploy_target }} by @${{ github.actor }}
-
 on:
   pull_request:
 
